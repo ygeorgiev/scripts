@@ -1,1 +1,9 @@
-asd
+Small scripts for every days:
+
+- powerdns/pdns_cleaner.php
+
+- os/ps_mem.py
+
+- mysq/flush-cache.sh
+- mysql/mysql-kill-old.php 
+- mysql/mysqltuner.pl
